@@ -386,7 +386,7 @@ body {
 @media screen and (width<450px){
     .main{
         grid-template-columns: auto;
-        margin-left: 20%;
+        margin-left: 10%;
     }
     .button input{
         margin-left:40%;
